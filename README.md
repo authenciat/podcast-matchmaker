@@ -122,7 +122,7 @@ For detailed information about this project, please refer to the following resou
 
 - **Video Demo**: [Watch on YouTube](https://youtu.be/tLPDVtwSLrs) - A short demonstration of the web application's features and functionality.
 
-- **GitHub Repository**: [github.com/authenciat/podcast-recommendation-app](https://github.com/authenciat/podcast-recommendation-app) - Complete source code and documentation.
+- **GitHub Repository**: [github.com/authenciat/podcast-matchmaker](https://github.com/authenciat/podcast-matchmaker) - Complete source code and documentation.
 
 ## Acknowledgements
 
