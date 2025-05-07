@@ -118,7 +118,7 @@ podcast-recommendation-app/
 
 For detailed information about this project, please refer to the following resources:
 
-- **Project Report**: `project_report.pdf` - Comprehensive explanation of the NLP methodology, technical challenges, user testing results, and future improvements.
+- **Project Report**: `NLP_Project_Report.pdf` - Comprehensive explanation of the NLP methodology, technical challenges, user testing results, and future improvements.
 
 - **Video Demo**: [Watch on YouTube](https://youtu.be/tLPDVtwSLrs) - A short demonstration of the web application's features and functionality.
 
