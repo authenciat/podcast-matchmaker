@@ -120,13 +120,9 @@ For detailed information about this project, please refer to the following resou
 
 - **Project Report**: `project_report.pdf` - Comprehensive explanation of the NLP methodology, technical challenges, user testing results, and future improvements.
 
-- **Video Demo**: [Watch on YouTube](https://youtu.be/your-video-link) - A short demonstration of the application's features and functionality.
+- **Video Demo**: [Watch on YouTube](https://youtu.be/tLPDVtwSLrs) - A short demonstration of the web application's features and functionality.
 
 - **GitHub Repository**: [github.com/yourusername/podcast-recommendation-app](https://github.com/yourusername/podcast-recommendation-app) - Complete source code and documentation.
-
-## License
-
-This project is licensed under the ISC License.
 
 ## Acknowledgements
 
